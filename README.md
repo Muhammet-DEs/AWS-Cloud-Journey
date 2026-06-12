@@ -6,18 +6,21 @@ Welcome to my AWS repository! This space tracks my progress from foundational cl
 
 ## 🗺️ Repository Structure
 
-### 🔍 1. Foundational Level (`/01-Foundational`)
+### 🔍 1. Foundational Level (`/Foundational-LABS`)
 *Core cloud computing concepts, AWS global infrastructure, and foundational services.*
+- **[Go to Foundational Labs](./Foundational-LABS/)**
 
-### 🛠️ 2. Practitioner Level (`/02-Practitioner`)
-*Hands-on labs focused on deploying, securing, and managing scalable cloud architectures (VPC, EC2, S3, etc.).*
+### 🛠️ 2. Practitioner Level (`/Practitioner-LABS`)
+*Hands-on labs focused on deploying, securing, and managing scalable cloud architectures.*
+- **[Go to Practitioner Labs](./Practitioner-LABS/)**
 
-### 🎯 3. Practical Tasks (`/03-Tasks`)
+### 🎯 3. Practical Tasks (`/AWS-Tasks`)
 *Real-world scenarios, challenges, and custom architectural tasks implemented on AWS.*
+- **[Go to AWS Tasks](./AWS-Tasks/)**
 
-### 📚 4. AWS Services Research (`/04-Research`)
-*In-depth technical research, architectural comparisons, and deep-dives into specific AWS services and best practices.*
-
+### 📚 4. AWS Services Research (`/AWS Research`)
+*In-depth technical research, architectural comparisons, and deep-dives into specific AWS services.*
+- **[Go to AWS Research](./AWS%20Research/)**
 ---
 
 ## 🛠️ Core AWS Services Covered
