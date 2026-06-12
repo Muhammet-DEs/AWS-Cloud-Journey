@@ -65,5 +65,4 @@ git push origin main
 
 
 #قم بإنشاء ملف نصي بسيط داخل الفولدر الرئيسي وسمّه بالظبط: .gitignore
-
-واضف اليه اسماء الملفات المراد اخفاءها
+add name of files you need to hide it
